@@ -4,3 +4,5 @@ public class SnakeGame {
         new GameFrame();
     }
 }
+
+// IT is a sanake game
